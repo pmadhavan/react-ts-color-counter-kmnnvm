@@ -1,3 +1,22 @@
-h1, p {
+h1,
+p {
   font-family: Lato;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  border: 2px solid #555;
+  text-align: center;
+}
+
+.color_container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.sort_btn {
+  margin-top: 0.75rem;
 }
