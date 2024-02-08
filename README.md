@@ -1,4 +1,4 @@
-# react-ts-color-counter-kmnnvm
+## Colored Counter
 
 ### Summary
 
